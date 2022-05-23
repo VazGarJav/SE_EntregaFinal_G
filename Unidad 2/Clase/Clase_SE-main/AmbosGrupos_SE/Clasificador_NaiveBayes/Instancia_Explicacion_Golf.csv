@@ -1,0 +1,15 @@
+Estado del Tiempo,Temperatura,Humedad,Viento,Jugar?
+Soleado,Caliente,Alta,Débil,No
+Soleado,Caliente,Alta,Fuerte,No
+Nublado,Caliente,Alta,Débil,Si
+Lluvioso,Ambiente,Alta,Débil,Si
+Lluvioso,Frío,Normal,Débil,Si
+Lluvioso,Frío,Normal,Fuerte,No
+Nublado,Frío,Normal,Fuerte,Si
+Soleado,Ambiente,Alta,Débil,No
+Soleado,Frío,Normal,Débil,Si
+Lluvioso,Ambiente,Normal,Débil,Si
+Soleado,Ambiente,Normal,Fuerte,Si
+Nublado,Ambiente,Alta,Fuerte,Si
+Nublado,Caliente,Normal,Débil,Si
+Lluvioso,Ambiente,Alta,Fuerte,No
